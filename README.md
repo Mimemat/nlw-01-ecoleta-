@@ -18,6 +18,7 @@ A parte Backend da aplicação foi feita utilizando:
 * [KnexJS](http://knexjs.org/)
 * [SQLite3](https://www.sqlite.org/index.html)
 * [Celebrate](https://www.npmjs.com/package/celebrate)
+* [Multer](https://www.npmjs.com/package/multer)
 #### Rodando o backend
 ```bash
 #Clone o repositório
