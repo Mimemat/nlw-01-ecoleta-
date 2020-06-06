@@ -1,6 +1,6 @@
-# Ecoleta
+# Ecoleta♻️
 
-![](https://image.flaticon.com/icons/svg/892/892894.svg)
+
 Esse projeito foi feito durante da Next Level Week do mês de Junho da Rocketseat
 
 ## Sobre
