@@ -9,7 +9,7 @@ Esse projeito foi feito durante da Next Level Week do mês de Junho da Rocketsea
 * [TypeScript](https://www.typescriptlang.org/docs/home.html)
 
 
-O arquivo é dividido em três partes, `server`, `web` e `mobile`. Aqui estão alguns detalhes sobre cada um:
+O arquivo é dividido em três partes, `server`, `web` e `mobile`. Aqui estão alguns detalhes sobre cada uma:
 
 ### *Server* (Backend)
 #### Recursos
