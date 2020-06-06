@@ -60,6 +60,6 @@ A parte Mobile da aplicação foi feita utilizando:
 
 *Em `src/services/api.ts` é necessário substiuir `10.0.0.107` por seu endereço de IPv4*
 
-### Next Level Week
+## Next Level Week
 A Next Level Week (NLW) foi lecionada por [Diego Fernandes](https://github.com/diego3g)
 
