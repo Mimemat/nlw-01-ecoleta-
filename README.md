@@ -26,7 +26,7 @@ $ git clone https://github.com/Mimemat/nlw-01-ecoleta-
 #Entre na pasta do backend
 $ cd server
 #Instale as dependências
-$ yarn add
+$ yarn install
 #Execute a aplicação no modo de desenvolvedor
 $ yarn dev
 #O backend será executado em http://localhost:3333
@@ -46,7 +46,7 @@ $ git clone https://github.com/Mimemat/nlw-01-ecoleta-
 #Entre na pasta do backend
 $ cd server
 #Instale as dependências
-$ yarn add
+$ yarn install
 #Execute a aplicação no modo de desenvolvedor
 $ yarn start
 #O frontend será executado em http://localhost:3000
